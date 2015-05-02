@@ -1,0 +1,33 @@
+{
+  "name": "node-cba-netbank-cli",
+  "version": "0.0.1",
+  "description": "A command line interface for Commonwealth Bank Australia Netbank",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/twang2218/node-cba-netbank-cli.git"
+  },
+  "keywords": [
+    "commbank",
+    "netbank",
+    "bank",
+    "command",
+    "line",
+    "commonwealth",
+    "bank",
+    "australia"
+  ],
+  "author": "Tao Wang <twang2218@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/twang2218/node-cba-netbank-cli/issues"
+  },
+  "homepage": "https://github.com/twang2218/node-cba-netbank-cli",
+  "dependencies": {
+    "inquirer": "^0.8.2",
+    "node-cba-netbank": "^0.2.0"
+  }
+}
