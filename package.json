@@ -28,6 +28,6 @@
   "homepage": "https://github.com/twang2218/node-cba-netbank-cli",
   "dependencies": {
     "inquirer": "^0.8.2",
-    "node-cba-netbank": "^0.2.0"
+    "node-cba-netbank": "^0.4.0"
   }
 }
